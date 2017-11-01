@@ -1,0 +1,497 @@
+{
+    "context": {
+        "title": "SMUSearch"
+    },
+    "items": [
+        {
+            "cacheId": "QDvpoK_s79IJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1CZGMmeQ3...",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1CZGMmeQ3...",
+            "htmlSnippet": "久留米大学の<b>学生</b>会館です。 食堂と<b>学生</b>がよくつかうミーティングルームがあります。",
+            "htmlTitle": "久留米大学御井学舎<b>学生</b>会館",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMoqtZupHUa6zmCHuomNQITv4OltSbgQo9QtBKNPpE0gc8nbMWohY1QWGp",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "久留米大学の学生会館です。  食堂と学生がよくつかうミーティングルームがあります。",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US",
+                        "og:title": "久留米大学御井学舎学生会館",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "久留米大学の学生会館です。  食堂と学生がよくつかうミーティングルームがあります。",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US",
+                        "twitter:title": "久留米大学御井学舎学生会館",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "久留米大学の学生会館です。 食堂と学生がよくつかうミーティングルームがあります。",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US",
+                        "name": "久留米大学御井学舎学生会館",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1CZGMmeQ3_rgJNqElW-x1Hj8Y61o&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "久留米大学の学生会館です。 食堂と学生がよくつかうミーティングルームがあります。",
+            "title": "久留米大学御井学舎学生会館"
+        },
+        {
+            "cacheId": "6DHTFpFDdLEJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hkez0bfXt5q4...",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hkez0bfXt5q4...",
+            "htmlSnippet": "展覧会会場である早稲田大学<b>学生</b>会館周辺の地図です。",
+            "htmlTitle": "早稲田大学<b>学生</b>会館",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrUvorf-3KWu9kXy5vxeqOo6F-pb2iNRvZ3CKb9uaoWFkS4X-jAHglJ4Q",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "展覧会会場である早稲田大学学生会館周辺の地図です。",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US",
+                        "og:title": "早稲田大学学生会館",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "展覧会会場である早稲田大学学生会館周辺の地図です。",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US",
+                        "twitter:title": "早稲田大学学生会館",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "展覧会会場である早稲田大学学生会館周辺の地図です。",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US",
+                        "name": "早稲田大学学生会館",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1EK0FP9VGRFOomn_hkez0bfXt5q4&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "展覧会会場である早稲田大学学生会館周辺の地図です。",
+            "title": "早稲田大学学生会館"
+        },
+        {
+            "cacheId": "Izz6nZD5bDwJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...Gu0&hl=ja",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...Gu0&amp;hl=ja",
+            "htmlSnippet": "広島大学 <b>学生</b>会館前. ... 広島大学 <b>学生</b>会館前. 表示回数 3,078 回. 無題のレイヤ. <br>\n広島大学 <b>学生</b>会館前. 地図データ. ©2017 Google - 地図データ. 利用規約. 地図の誤り<br>\nを報告する. Google マイマップで作成した要素. 該当する検索結果はありません.",
+            "htmlTitle": "広島大学 <b>学生</b>会館前",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzWOKs-8tv67S10SUFOV--4P01QXkDxYo1QC-_fWaRBD0KccRe1tXWbDJK",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "広島大学 学生会館前",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja",
+                        "og:title": "広島大学 学生会館前",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "広島大学 学生会館前",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja",
+                        "twitter:title": "広島大学 学生会館前",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "広島大学 学生会館前",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja",
+                        "name": "広島大学 学生会館前",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1A1vAgL20hafAp0j3AzMbXgg-Gu0&hl=ja"
+                    }
+                ]
+            },
+            "snippet": "広島大学 学生会館前. ... 広島大学 学生会館前. 表示回数 3,078 回. 無題のレイヤ. \n広島大学 学生会館前. 地図データ. ©2017 Google - 地図データ. 利用規約. 地図の誤り\nを報告する. Google マイマップで作成した要素. 該当する検索結果はありません.",
+            "title": "広島大学 学生会館前"
+        },
+        {
+            "cacheId": "VLcLMIl2UrUJ",
+            "displayLink": "www.google.com",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "www.google.com/a/help/intl/ja/.../hitotsubashi-university.pdf",
+            "htmlFormattedUrl": "www.google.com/a/help/intl/ja/.../hitotsubashi-university.pdf",
+            "htmlSnippet": "<b>学生</b>のメール利用率アップ、利用満足度の向上を実現。 24 時間 365日。止まらない<br>\nサービスを提供したい. 「 Google Apps 導入以前は、<b>学生</b>一人当たり 200MB のメール. <br>\n容量を提供していました。しかし、悪質なスパムメールのために、. 日常的に受信トレイを<br>\n&nbsp;...",
+            "htmlTitle": "<b>学生</b>のメール利用率アップ",
+            "kind": "customsearch#result",
+            "link": "http://www.google.com/a/help/intl/ja/admins/case_studies/pdf/hitotsubashi-university.pdf",
+            "mime": "application/pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "creationdate": "D:20100916125213+09'00'",
+                        "creator": "Adobe InDesign CS3_J (5.0.4)",
+                        "moddate": "D:20100916125214+09'00'",
+                        "producer": "Adobe PDF Library 8.0"
+                    }
+                ]
+            },
+            "snippet": "学生のメール利用率アップ、利用満足度の向上を実現。 24 時間 365日。止まらない\nサービスを提供したい. 「 Google Apps 導入以前は、学生一人当たり 200MB のメール. \n容量を提供していました。しかし、悪質なスパムメールのために、. 日常的に受信トレイを\n ...",
+            "title": "学生のメール利用率アップ"
+        },
+        {
+            "cacheId": "jbVkGIkov50J",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...t1Xki8s&hl=en...",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...t1Xki8s&amp;hl=en...",
+            "htmlSnippet": "広島大学：広島大学 <b>学生</b>会館前バス停. ... 広島大学：広島大学 <b>学生</b>会館前バス停. <br>\n7,739 views. 広島大学. <b>学生</b>会館前 バス停. Map Data. ©2017 Google - Map Data. <br>\nTerms of Use. Report a map error. Made with Google My Maps. No results.",
+            "htmlTitle": "広島大学：広島大学 <b>学生</b>会館前バス停",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrXS4AxSrGLQ_1SqUedaStobMuz-WZeADNlrPsX-HhNyotBwYnUOcSBOod",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "広島大学：広島大学　学生会館前バス停",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US",
+                        "og:title": "広島大学：広島大学　学生会館前バス停",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "広島大学：広島大学　学生会館前バス停",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US",
+                        "twitter:title": "広島大学：広島大学　学生会館前バス停",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "広島大学：広島大学 学生会館前バス停",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US",
+                        "name": "広島大学：広島大学 学生会館前バス停",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1g0Fbn8Hh4S9MejE4Aa8-t1Xki8s&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "広島大学：広島大学 学生会館前バス停. ... 広島大学：広島大学 学生会館前バス停. \n7,739 views. 広島大学. 学生会館前 バス停. Map Data. ©2017 Google - Map Data. \nTerms of Use. Report a map error. Made with Google My Maps. No results.",
+            "title": "広島大学：広島大学 学生会館前バス停"
+        },
+        {
+            "cacheId": "IfG-Vq01NxMJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+            "htmlSnippet": "SBFの活動場所である名古屋大学<b>学生</b>会館への地図です．",
+            "htmlTitle": "<b>学生</b>会館への地図",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "SBFの活動場所である名古屋大学学生会館への地図です．",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US",
+                        "og:title": "学生会館への地図",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "SBFの活動場所である名古屋大学学生会館への地図です．",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US",
+                        "twitter:title": "学生会館への地図",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "SBFの活動場所である名古屋大学学生会館への地図です．",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US",
+                        "name": "学生会館への地図",
+                        "url": "https://www.google.com/maps/d/viewer?mid=16KSdR9bILsb3sqTz8QATjEMEDZA&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "SBFの活動場所である名古屋大学学生会館への地図です．",
+            "title": "学生会館への地図"
+        },
+        {
+            "cacheId": "jDhodORYUYEJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+            "htmlSnippet": "島原<b>学生</b>駅伝コース図. ... 島原<b>学生</b>駅伝コース図. 5,450 views. 男子. ４区（9.38km）. <br>\n１区（7.73km）. ２区（8.39km）. ３区（8.27km）. ５区（9.08km）. ６区（7.24km）. ７区（7.71<br>\nkm）. 男子スタート. 男子第1中継所. 男子第2中継所. 男子第3中継所. 男子第4中継所.",
+            "htmlTitle": "島原<b>学生</b>駅伝コース図",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEE7qbozDkWu5sNHal-APNk-APPZrzylVrtGAI48d5kGVhg19YWAZVunNw",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "島原学生駅伝コース図",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US",
+                        "og:title": "島原学生駅伝コース図",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "島原学生駅伝コース図",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US",
+                        "twitter:title": "島原学生駅伝コース図",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "島原学生駅伝コース図",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US",
+                        "name": "島原学生駅伝コース図",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1Ta4dr3vLWt9_uacHSKrXlbVDr1I&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "島原学生駅伝コース図. ... 島原学生駅伝コース図. 5,450 views. 男子. ４区（9.38km）. \n１区（7.73km）. ２区（8.39km）. ３区（8.27km）. ５区（9.08km）. ６区（7.24km）. ７区（7.71\nkm）. 男子スタート. 男子第1中継所. 男子第2中継所. 男子第3中継所. 男子第4中継所.",
+            "title": "島原学生駅伝コース図"
+        },
+        {
+            "cacheId": "hVL1ekjoTwUJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=ja",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=ja",
+            "htmlSnippet": "桃山学院大学公認のワンルーム<b>学生</b>専用マンションとして、ご提供させて頂いており<br>\nます。",
+            "htmlTitle": "桃山学院大学公認 ワンルーム<b>学生</b>マンション ひまわりコーポ",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7Gsvzvq6yfDemTBwCjUcCxa1lig1xDMM1ckOmiPhCFqDnYzJOkCTqvp8",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "桃山学院大学公認のワンルーム学生専用マンションとして、ご提供させて頂いております。",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja",
+                        "og:title": "桃山学院大学公認　ワンルーム学生マンション　ひまわりコーポ",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "桃山学院大学公認のワンルーム学生専用マンションとして、ご提供させて頂いております。",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja",
+                        "twitter:title": "桃山学院大学公認　ワンルーム学生マンション　ひまわりコーポ",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "桃山学院大学公認のワンルーム学生専用マンションとして、ご提供させて頂いております。",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja",
+                        "name": "桃山学院大学公認 ワンルーム学生マンション ひまわりコーポ",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1TS2foA2iV6h1a42VZoYBcJ5QNIM&hl=ja"
+                    }
+                ]
+            },
+            "snippet": "桃山学院大学公認のワンルーム学生専用マンションとして、ご提供させて頂いており\nます。",
+            "title": "桃山学院大学公認 ワンルーム学生マンション ひまわりコーポ"
+        },
+        {
+            "cacheId": "QGi6dOU1fKIJ",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+            "htmlSnippet": "朝夕2食の食事付きで、お家賃リーズナブルな<b>学生</b>会館。24時間常駐管理で、女子<br>\n専用フロアもあります♪ <b>学生</b>会館周辺の通いやすい学校や、便利なスポットをご紹介し<br>\nます。 より詳しくはホームページをご覧ください。",
+            "htmlTitle": "<b>学生</b>会館 フレクサンス西宮 周辺地図",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJF4KG7HoP-g0EuqulOzPo_z4ySntC09rRJPN9Owmd-yEqvRr7Ay5xBj8",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "朝夕2食の食事付きで、お家賃リーズナブルな学生会館。24時間常駐管理で、女子専用フロアもあります♪ 学生会館周辺の通いやすい学校や、便利なスポットをご紹介します。  より詳しくはホームページをご覧ください。 物件ページ：http://unilife.co.jp/view/602010/ 特設ページ：http://unilife.co.jp/area/area_hanshin/flexsens/",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US",
+                        "og:title": "学生会館 フレクサンス西宮　周辺地図",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "朝夕2食の食事付きで、お家賃リーズナブルな学生会館。24時間常駐管理で、女子専用フロアもあります♪ 学生会館周辺の通いやすい学校や、便利なスポットをご紹介します。  より詳しくはホームページをご覧ください。 物件ページ：http://unilife.co.jp/view/602010/ 特設ページ：http://unilife.co.jp/area/area_hanshin/flexsens/",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US",
+                        "twitter:title": "学生会館 フレクサンス西宮　周辺地図",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "朝夕2食の食事付きで、お家賃リーズナブルな学生会館。24時間常駐管理で、女子専用フロアもあります♪ 学生会館周辺の通いやすい学校や、便利...",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US",
+                        "name": "学生会館 フレクサンス西宮 周辺地図",
+                        "url": "https://www.google.com/maps/d/viewer?mid=16W2SWH7TYuE1RxZwh9uiDdG32AQ&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "朝夕2食の食事付きで、お家賃リーズナブルな学生会館。24時間常駐管理で、女子\n専用フロアもあります♪ 学生会館周辺の通いやすい学校や、便利なスポットをご紹介し\nます。 より詳しくはホームページをご覧ください。",
+            "title": "学生会館 フレクサンス西宮 周辺地図"
+        },
+        {
+            "cacheId": "Q849OcGJw60J",
+            "displayLink": "www.google.com",
+            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...34&hl=en_US",
+            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...34&amp;hl=en_US",
+            "htmlSnippet": "<b>学生</b>賃貸. ... <b>学生</b>賃貸. 8,351 views. 無題のレイヤ. ガーデンフラックス. ミッシェル２１. <br>\nリブゴーシュ. カシミアマンション. ロマネマンション. ガーデンハウス・シャトー. フル・<br>\nハウスＩＧＡ. 平松コーポ. ウィズダムコーポ. アパ・チェリー奥万田. ハイムフロイデ. <br>\nグローリー&nbsp;...",
+            "htmlTitle": "<b>学生</b>賃貸",
+            "kind": "customsearch#result",
+            "link": "https://www.google.com/mymaps/viewer?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/d/thumbnail?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "height": "228",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4f_dTu8un1PjB0WNb0b4NjSViepCgL3eVzlUWt96RRYmcee4VyVRmIrs",
+                        "width": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:description": "学生賃貸",
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US",
+                        "og:title": "学生賃貸",
+                        "og:type": "website",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "学生賃貸",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US",
+                        "twitter:title": "学生賃貸",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+                    }
+                ],
+                "website": [
+                    {
+                        "description": "学生賃貸",
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US",
+                        "name": "学生賃貸",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1iDlOl8QYkQ2OcePvrV7M67av_34&hl=en_US"
+                    }
+                ]
+            },
+            "snippet": "学生賃貸. ... 学生賃貸. 8,351 views. 無題のレイヤ. ガーデンフラックス. ミッシェル２１. \nリブゴーシュ. カシミアマンション. ロマネマンション. ガーデンハウス・シャトー. フル・\nハウスＩＧＡ. 平松コーポ. ウィズダムコーポ. アパ・チェリー奥万田. ハイムフロイデ. \nグローリー ...",
+            "title": "学生賃貸"
+        }
+    ],
+    "kind": "customsearch#search",
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10,
+                "cx": "016842751986855667438:nlqxlwoskfc",
+                "inputEncoding": "utf8",
+                "language": "lang_ja",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "searchTerms": "学生",
+                "startIndex": 11,
+                "title": "Google Custom Search - 学生",
+                "totalResults": "544000"
+            }
+        ],
+        "request": [
+            {
+                "count": 10,
+                "cx": "016842751986855667438:nlqxlwoskfc",
+                "inputEncoding": "utf8",
+                "language": "lang_ja",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "searchTerms": "学生",
+                "startIndex": 1,
+                "title": "Google Custom Search - 学生",
+                "totalResults": "544000"
+            }
+        ]
+    },
+    "searchInformation": {
+        "formattedSearchTime": "0.53",
+        "formattedTotalResults": "544,000",
+        "searchTime": 0.530564,
+        "totalResults": "544000"
+    },
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json",
+        "type": "application/json"
+    }
+}
