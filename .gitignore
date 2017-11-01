@@ -1,7 +1,10 @@
-*.tsv
+
 
 # Data
+mecab/
 data/
+*.tsv
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
